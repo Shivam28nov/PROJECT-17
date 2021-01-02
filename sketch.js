@@ -120,7 +120,7 @@ function food(){
   banana.addImage("banana",bananaImage);
     
   // to add velocity to banana
-  banana.velocityX=-7;
+  banana.velocityX=-10;
     
   //assign scale to banana
   banana.scale=0.1;
@@ -147,7 +147,7 @@ function obstacles(){
     obstacle.addImage("obstacles",obstacleImage);
     
     // to add velocity to obstacle
-    obstacle.velocityX=-5;        
+    obstacle.velocityX=-10;        
     
     //assign lifetime to obstacles
     obstacle.lifetime=120;
