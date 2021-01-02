@@ -120,7 +120,7 @@ function food(){
   banana.addImage("banana",bananaImage);
     
   // to add velocity to banana
-  banana.velocityX=-4;
+  banana.velocityX=-7;
     
   //assign scale to banana
   banana.scale=0.1;
